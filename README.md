@@ -5,9 +5,9 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 
 ### Encoding
 
-    python3 Cipher -i <inputfile.txt> -o <outputfile.txt>
+    python3 cipher.py -i <inputfile.txt> -o <outputfile.txt>
     
 ### Decoding
 
-    python3 Decipher -i <inputfile.txt> -o <outputfile.txt>
+    python3 decipher.py -i <inputfile.txt> -o <outputfile.txt>
     
